@@ -1,0 +1,6 @@
+"edit, rename","{'.ts': 36, '.json': 4, '.xml': 4, '.webproj': 1, '.cs': 40, '.scss': 1, '.sql': 8, '.tsx': 5}"
+rename,"{'.ts': 4, '.json': 12}"
+edit,"{'.proj': 31, '.json': 91, '.ascx': 2, '.yml': 38, '.ps1': 4, '.css': 4, '.csproj': 189, '.txt': 2, '.cmd': 2, '.webproj': 32, '.scss': 67, '.sql': 12, '.ts': 760, '.resjson': 5, '.wexproj': 19, '.inc': 4, '.woff': 3, '.resx': 39, '.copyproj': 4, '.cs': 1073, '.tsx': 205, '.Defaults': 26, '.defaults': 2, '.xml': 155}"
+"delete, sourceRename","{'.ts': 40, '.json': 16, '.xml': 4, '.webproj': 1, '.cs': 40, '.scss': 1, '.sql': 8, '.tsx': 5}"
+delete,"{'.ts': 6, '.json': 4, '.ps1': 2, '.targets': 2, '.png': 2, '.resx': 2, '.csproj': 4, '.cs': 83, '.proj': 2, '.props': 2, '.xml': 12, '.webproj': 2, '.yml': 2, '.copyproj': 2}"
+add,"{'.ts': 120, '.json': 53, '.wtproj': 2, '.yml': 4, '.targets': 4, '.inc': 2, '.props': 6, '.resx': 1, '.proj': 15, '.csproj': 5, '.cs': 70, '.png': 14, '.resjson': 7, '.webproj': 16, '.wexproj': 4, '.scss': 8, '.sql': 18, '.copyproj': 3, '.tsx': 34, '.xml': 24}"
